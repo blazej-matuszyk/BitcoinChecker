@@ -2,11 +2,9 @@
 
 <p float="left" align="top">
 <img src="docs/app_screenshot.png" width="140" alt="The app screenshot">
-&nbsp;&nbsp;
-  <a href='https://play.google.com/store/apps/details?id=com.aneonex.bitcoinchecker'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200" align="top"/></a>
 </p>
 
-> Notice: Since 2020, this project continues the development of the [previous inactive project Bitcoin Checker](https://github.com/mobnetic/BitcoinChecker).
+> It's a fork of no longer maintained [aneonex/BitcoinChecker](https://github.com/aneonex/BitcoinChecker).
 
 ## About
 __Bitcoin Checker__ is a FREE app to track the most recent prices of your favourite currency pairs (on over 100 supported exchanges) in many customizable ways (such as rich notifications, TTS voice announcements, Home and Lockscreen widget or multiple alarms).
